@@ -1,14 +1,7 @@
 # My Portfolio Projects
 
-### Projects:
+### Healthcare:
+[Atherosclerotic Cardiovascular Disease (ASCVD) Understanding and Prediction](https://github.com/DongSyHuy/DSH_Portfolio_Projects/blob/main/ASCVD_Risk_Prediction/ASCVD_Understanding_and_Prediction.ipynb)  |  Python
 
 
 
-
-### Technical Skills
-
-- **SQL** | Query and Data Modeling
-- **Power BI** | Building Dashboards & Data Visualization
-- **Python** | Pandas,  Matplotlib, Seaborn, Plotly, NumPy, ...
-- **Machine Learning** | Scikit-Learn, ...
-- **Others** | MS Excel, MS Word, MS Powerpoint
