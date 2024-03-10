@@ -4,9 +4,9 @@
 [Atherosclerotic Cardiovascular Disease (ASCVD) Understanding and Prediction](https://github.com/DongSyHuy/DSH_Portfolio_Projects/blob/main/ASCVD_Risk_Prediction/ASCVD_Understanding_and_Prediction.ipynb)  |  Python
 
 ## **Python Modules**
-[Python module for data analysis](https://github.com/DongSyHuy/DSH_Portfolio_Projects/blob/main/ASCVD_Risk_Prediction/ASCVD_Understanding_and_Prediction.ipynb)  |  Python
-[Python module for data visualization](https://github.com/DongSyHuy/DSH_Portfolio_Projects/blob/main/ASCVD_Risk_Prediction/ASCVD_Understanding_and_Prediction.ipynb)  |  Python
-[Python module for data modeling](https://github.com/DongSyHuy/DSH_Portfolio_Projects/blob/main/ASCVD_Risk_Prediction/ASCVD_Understanding_and_Prediction.ipynb)  |  Python
+[Python module for data analysis](https://github.com/DongSyHuy/DSH_Portfolio_Projects/blob/main/My_Python_Modules/dshfunc.py)  |  Python  
+[Python module for data visualization](https://github.com/DongSyHuy/DSH_Portfolio_Projects/blob/main/My_Python_Modules/dshplot.py)  |  Python  
+[Python module for data modeling](https://github.com/DongSyHuy/DSH_Portfolio_Projects/blob/main/My_Python_Modules/dshfpML.py)  |  Python  
 
 ## **Technical Skills**  
 
